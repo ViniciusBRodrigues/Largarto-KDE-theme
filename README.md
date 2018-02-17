@@ -30,4 +30,4 @@ Inspiraded by [Erdlowe GTK Theme](https://github.com/DarthWound/erdlowe-gtk-them
 - ```sudo cp -r KDELagarto /usr/share/plymouth/themes/```
 - ```sudo plymouth-set-default-theme -R KDELagarto```
 
-[Wallpaper is in here](https://github.com/ViniciusBRodrigues/Largarto-KDE-theme/blob/master/wallpaper.png) and [lock and authentication screen] here(https://github.com/ViniciusBRodrigues/Largarto-KDE-theme/blob/master/lockscreen.png)
+[Wallpaper is in here](https://github.com/ViniciusBRodrigues/Largarto-KDE-theme/blob/master/wallpaper.png) and [lock and authentication screen here](https://github.com/ViniciusBRodrigues/Largarto-KDE-theme/blob/master/lockscreen.png)
