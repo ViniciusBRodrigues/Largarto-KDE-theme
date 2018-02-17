@@ -22,3 +22,10 @@ Lagarto, a KDE theme openSUSE® color palette.
 Inspiraded by [Erdlowe GTK Theme](https://github.com/DarthWound/erdlowe-gtk-theme).
 
 # Installation
+
+- git clone https://github.com/ViniciusBRodrigues/Largarto-KDE-theme.git
+- cd Largarto-KDE-theme/
+- cp -r Lagarto $HOME/.local/share/plasmalook-and-feel/
+- cp -r Lagarto-reptilia $HOME/.local/share/desktoptheme/
+- sudo cp -r KDELagarto /usr/share/plymouth/themes/
+- sudo plymouth-set-default-theme -R KDELagarto
