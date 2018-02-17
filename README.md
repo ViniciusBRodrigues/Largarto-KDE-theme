@@ -2,11 +2,11 @@
 Lagarto, a KDE theme openSUSE® color palette. 
 
 # Overview:
-![Splash screen](https://s10.postimg.org/dvqid79sp/splash.png)
+[Splash screen](https://s10.postimg.org/dvqid79sp/splash.png)
 
-![Print screen](https://s10.postimg.org/e9ruchwdl/Screenshot_Lagarto1.png)
+[Print screen](https://s10.postimg.org/e9ruchwdl/Screenshot_Lagarto1.png)
 
-![Print screen](https://s10.postimg.org/aq5wmp1dl/Screenshot_Lagarto2.png)
+[Print screen](https://s10.postimg.org/aq5wmp1dl/Screenshot_Lagarto2.png)
 
 # Based and modified from:
 - Splashscreen from [Arc KDE](https://github.com/PapirusDevelopmentTeam/arc-kde)
