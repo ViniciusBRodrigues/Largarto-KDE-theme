@@ -2,6 +2,10 @@
 Lagarto, a KDE theme openSUSE® color palette. 
 
 # Overview:
+<p align="center">
+  <img src="https://s10.postimg.org/dvqid79sp/splash.png" alt="Preview Lagarto"/>
+</p>
+
 [Splash screen](https://s10.postimg.org/dvqid79sp/splash.png)
 
 [Print screen](https://s10.postimg.org/e9ruchwdl/Screenshot_Lagarto1.png)
