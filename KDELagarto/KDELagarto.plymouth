@@ -1,0 +1,8 @@
+[Plymouth Theme]
+Name=openSUSE KDE Lagarto theme
+Description=openSUSE KDE Lagarto theme
+ModuleName=script
+
+[script]
+ImageDir=/usr/share/plymouth/themes/KDELagarto
+ScriptFile=/usr/share/plymouth/themes/KDELagarto/KDELagarto.script
