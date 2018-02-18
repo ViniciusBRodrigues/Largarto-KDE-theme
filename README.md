@@ -17,7 +17,7 @@ Lagarto, a KDE theme openSUSE® color palette.
 # Based and modified
 - Splashscreen from [Arc KDE](https://github.com/PapirusDevelopmentTeam/arc-kde)
 - Plymouth from [GnomeGecko](https://plus.google.com/u/0/111682190684743279128/posts/6UjfioLwYeh?cfem=1)
-- Theme, wallpaper and icons [from Nomad](https://github.com/nomad-desktop/nomad-plasma-look-and-feel) and [Adapta](https://github.com/adapta-project)
+- Theme, wallpaper and icons [from Nomad](https://github.com/nomad-desktop/nomad-plasma-look-and-feel), [Adapta](https://github.com/adapta-project) and [Aex Nomad](https://github.com/Madkita/Plasma-Themes/tree/master/Aex%20Nomad)
 
 Inspiraded by [Erdlowe GTK Theme](https://github.com/DarthWound/erdlowe-gtk-theme).
 
