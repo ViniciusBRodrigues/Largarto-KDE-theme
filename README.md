@@ -39,3 +39,4 @@ Open System Setings and choose the Wallpaper, Lockscreen, Color Scheme, Window D
 
 - [ ] Improve Lagarto.colors
 - [ ] Icon theme
+- [ ] Dark version
