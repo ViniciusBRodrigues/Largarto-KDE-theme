@@ -27,9 +27,9 @@ Inspiraded by [Erdlowe GTK Theme](https://github.com/DarthWound/erdlowe-gtk-them
 - ```cd Largarto-KDE-theme/```
 - ```cp -r Lagarto $HOME/.local/share/plasmalook-and-feel/```
 - ```cp -r Lagarto-reptilia $HOME/.local/share/desktoptheme/```
-- ```sudo cp Lagarto.colors /usr/share/color-schemes```
-- ```sudo cp wallpaper.png /usr/share/wallpapers```
-- ```sudo cp lockscreen.png /usr/share/wallpapers```
+- ```sudo cp Lagarto.colors /usr/share/color-schemes/```
+- ```sudo cp wallpaper.png /usr/share/wallpapers/```
+- ```sudo cp lockscreen.png /usr/share/wallpapers/```
 - ```sudo cp -r KDELagarto /usr/share/plymouth/themes/```
 - ```sudo plymouth-set-default-theme -R KDELagarto```
 
