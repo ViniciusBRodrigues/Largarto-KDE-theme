@@ -22,10 +22,10 @@
      inkscape:window-maximized="0"
      inkscape:window-y="0"
      inkscape:window-x="0"
-     inkscape:current-layer="focus-bottomright"
-     inkscape:cy="42.83833"
-     inkscape:cx="58.368676"
-     inkscape:zoom="5.892221"
+     inkscape:current-layer="focus-top"
+     inkscape:cy="27.319412"
+     inkscape:cx="93.219952"
+     inkscape:zoom="11.784442"
      inkscape:pagecheckerboard="true"
      showgrid="false"
      id="namedview75"
@@ -218,15 +218,6 @@
        gradientUnits="userSpaceOnUse" />
     <linearGradient
        inkscape:collect="always"
-       xlink:href="#inside"
-       id="linearGradient1642"
-       x1="23.8832"
-       y1="80.153374"
-       x2="95.883202"
-       y2="80.153374"
-       gradientUnits="userSpaceOnUse" />
-    <linearGradient
-       inkscape:collect="always"
        xlink:href="#apple_blue"
        id="linearGradient930"
        gradientUnits="userSpaceOnUse"
@@ -337,7 +328,7 @@
      height="24"
      width="72"
      id="focus-center"
-     style="opacity:1;fill:url(#linearGradient1642);fill-opacity:1.0;fill-rule:nonzero;stroke:none;stroke-width:3.69917774;stroke-linecap:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:0.86086958" />
+     style="opacity:1;fill:#73ba25;fill-opacity:0.10714286;fill-rule:nonzero;stroke:none;stroke-width:3.69917774;stroke-linecap:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:0.86086958" />
   <g
      transform="matrix(1,0,0,-0.99999952,-6.4642072,124.21043)"
      id="focus-bottom"

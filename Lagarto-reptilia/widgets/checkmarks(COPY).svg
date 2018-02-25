@@ -80,12 +80,12 @@
      showgrid="false"
      inkscape:pagecheckerboard="true"
      inkscape:zoom="20.627394"
-     inkscape:cx="30.25431"
+     inkscape:cx="14.11701"
      inkscape:cy="10.915379"
      inkscape:window-x="0"
      inkscape:window-y="0"
      inkscape:window-maximized="0"
-     inkscape:current-layer="checkbox" />
+     inkscape:current-layer="radiobutton" />
   <metadata
      id="metadata7">
     <rdf:RDF>
@@ -103,7 +103,7 @@
      transform="translate(0,-64)"
      style="fill:#ff0000">
     <path
-       style="fill:#ffffff;fill-opacity:1"
+       style="fill:#52504d;fill-opacity:0.82352942"
        class="ColorScheme-Text"
        inkscape:connector-curvature="0"
        d="M 7.9981,75 A 3,3 0 0 1 5,71.999 3,3 0 0 1 8.0009,69 3,3 0 0 1 11,72 3,3 0 0 1 8,75 v -3 z"
@@ -136,7 +136,7 @@
        y="64"
        id="rect4165" />
     <polygon
-       style="fill:#ffffff;fill-opacity:1"
+       style="fill:#52504d;fill-opacity:0.82352942"
        class="ColorScheme-Text"
        transform="matrix(0.19663,0,0,0.19663,-1.8904,62.296)"
        points="23.6,57.2 42.5,71.4 77,32.7 71,27.3 41.5,60.6 28.4,50.8 "
