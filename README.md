@@ -7,11 +7,11 @@ Lagarto, a KDE theme openSUSE® color palette.
 </p>
 
 <p align="center">
-  <img src="https://s10.postimg.org/e9ruchwdl/Screenshot_Lagarto1.png" alt="Preview Lagarto"/>
+  <img src="https://s10.postimg.org/6j8pbs9i1/Sem_t_tulo.png" alt="Preview Lagarto"/>
 </p>
 
 <p align="center">
-  <img src="https://s10.postimg.org/aq5wmp1dl/Screenshot_Lagarto2.png" alt="Preview Lagarto"/>
+  <img src="https://s10.postimg.org/s5npsuxsp/Sem_t_tulo1.png" alt="Preview Lagarto"/>
 </p>
 
 # Based and modified
@@ -27,7 +27,15 @@ Inspiraded by [Erdlowe GTK Theme](https://github.com/DarthWound/erdlowe-gtk-them
 - ```cd Largarto-KDE-theme/```
 - ```cp -r Lagarto $HOME/.local/share/plasmalook-and-feel/```
 - ```cp -r Lagarto-reptilia $HOME/.local/share/desktoptheme/```
+- ```sudo cp Lagarto.colors /usr/share/color-schemes```
+- ```sudo cp wallpaper.png /usr/share/wallpapers```
+- ```sudo cp lockscreen.png /usr/share/wallpapers```
 - ```sudo cp -r KDELagarto /usr/share/plymouth/themes/```
 - ```sudo plymouth-set-default-theme -R KDELagarto```
 
-[Wallpaper is in here](https://github.com/ViniciusBRodrigues/Largarto-KDE-theme/blob/master/wallpaper.png) and [lock and authentication screen here](https://github.com/ViniciusBRodrigues/Largarto-KDE-theme/blob/master/lockscreen.png)
+Open System Setings and choose the Wallpaper, Lockscreen, Color Scheme, Window Decoration, Splash Screen and Desktop Theme.
+
+# To do
+
+- [ ] Improve Lagarto.colors
+- [ ] Icon theme
