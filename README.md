@@ -1,5 +1,5 @@
 # Largarto KDE theme
-Lagarto, a KDE theme openSUSE® color palette. 
+Lagarto, a KDE theme openSUSE color palette. 
 
 # Overview
 <p align="center">
@@ -23,15 +23,19 @@ Inspiraded by [Erdlowe GTK Theme](https://github.com/DarthWound/erdlowe-gtk-them
 
 # Installation
 
-- ```git clone https://github.com/ViniciusBRodrigues/Largarto-KDE-theme.git```
-- ```cd Largarto-KDE-theme/```
-- ```cp -r Lagarto $HOME/.local/share/plasmalook-and-feel/```
-- ```cp -r Lagarto-reptilia $HOME/.local/share/desktoptheme/```
-- ```sudo cp Lagarto.colors /usr/share/color-schemes/```
-- ```sudo cp wallpaper.png /usr/share/wallpapers/```
-- ```sudo cp lockscreen.png /usr/share/wallpapers/```
-- ```sudo cp -r KDELagarto /usr/share/plymouth/themes/```
-- ```sudo plymouth-set-default-theme -R KDELagarto```
+Made for Leap 42.3.
+
+```
+$ git clone https://github.com/ViniciusBRodrigues/Largarto-KDE-theme.git
+$ cd Largarto-KDE-theme/
+$ cp -r Lagarto $HOME/.local/share/plasmalook-and-feel/
+$ cp -r Lagarto-reptilia $HOME/.local/share/desktoptheme/
+$ sudo cp Lagarto.colors /usr/share/color-schemes/
+$ sudo cp wallpaper.png /usr/share/wallpapers/
+$ sudo cp lockscreen.png /usr/share/wallpapers/
+$ sudo cp -r KDELagarto /usr/share/plymouth/themes/
+$ sudo plymouth-set-default-theme -R KDELagarto
+```
 
 Open System Setings and choose the Wallpaper, Lockscreen, Color Scheme, Window Decoration, Splash Screen and Desktop Theme.
 
